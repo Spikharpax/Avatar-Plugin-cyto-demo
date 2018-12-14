@@ -1,0 +1,24 @@
+{
+  "id": "ClickMe",
+  "classes": {
+    "cyto": 1,
+    "clickme": 1
+  },
+  "selected": false,
+  "locked": false,
+  "position": {
+    "x": 100,
+    "y": 100
+  },
+  "style": {
+    "background-image": "..\\core\\plugins\\cyto-demo\\assets\\images\\clickme.png",
+    "height": 60,
+    "width": 60,
+    "border-opacity": 0,
+    "font-size": "14px",
+    "color": "white",
+    "text-valign": "bottom",
+    "text-outline-width": 3,
+    "text-outline-color": "#999"
+  }
+}
