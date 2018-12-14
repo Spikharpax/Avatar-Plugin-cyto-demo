@@ -14,7 +14,7 @@ Plugin:
 - Copiez le répertoire `cyto-demo` dans le répertoire `Avatar-Serveur/resources/core/plugins`
 
 Fichier core:
-- Copiez le fichier `clientNode.js` dans le répertoire `Avatar-Serveur/resources/app`
+- Copiez le fichier `app/clientNode.js` dans le répertoire `Avatar-Serveur/resources/app`
 
 
 ### Utilisation
