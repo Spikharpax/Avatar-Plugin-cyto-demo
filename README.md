@@ -14,7 +14,7 @@ Pour plus d'information sur Cytoscape: http://js.cytoscape.org/
 ### Utilisation
 
 Ce plugin est une démonstration de la librairie cyto-demo/node_modules/cyto-avatar
-Voir aussi toutes les fonctions détaillées dans cyto-demo/node_modules/cyto-avatar/lib/cyto-avatar.js
+<BR>Voir aussi toutes les fonctions détaillées dans cyto-demo/node_modules/cyto-avatar/lib/cyto-avatar.js
 
 
 <BR><BR>
