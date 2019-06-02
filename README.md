@@ -1,6 +1,6 @@
-# Avatar-Plugin-cyto-demo
+# Cyto-demo
 
-Ce plugin est un add-on pour le framework [Avatar](https://github.com/Spikharpax/A.V.A.T.A.R).
+Ce plugin est un add-on pour le framework [A.V.A.T.A.R](https://github.com/Spikharpax/A.V.A.T.A.R).
 
 Plugin de démonstration de l'ajout d'éléments dans l'interface d'A.V.A.T.A.R
 
